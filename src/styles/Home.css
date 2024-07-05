@@ -1,0 +1,13 @@
+.home{
+    margin-top: 60px;
+}
+
+@media (max-width:730px) {
+    .home{
+        display: grid;
+    }
+    .home{
+        height: auto;
+        width: auto;
+    }
+}

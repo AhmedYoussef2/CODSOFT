@@ -1,0 +1,9 @@
+@media (max-width:730px) {
+    .cont{
+        display: grid;
+    }
+    .card{
+        height: auto;
+        width: auto;
+    }
+}

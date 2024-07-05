@@ -1,0 +1,12 @@
+.about{
+    margin-top: 52px;
+}
+@media (max-width:730px) {
+    .about{
+        display: grid;
+    }
+    .about{
+        height: auto;
+        width: auto;
+    }
+}
